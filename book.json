@@ -1,0 +1,18 @@
+{
+    "title" : "Python培训教程",
+    "author" : "xxoo",
+    "gitbook": "3.0.0",
+    "language" : "zh-hans",
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+        "prism",
+        "-search",
+        "spoiler",
+        "sectionx",
+        "latex-codecogs"
+    ],
+    "pluginsConfig": {
+    }
+}
